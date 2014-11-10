@@ -1,9 +1,14 @@
 {
     "id" : "ChrisVolume1OST",
-    "version" : "0.1.0",
+    "version" : "0.2.0",
     "author" : "Chris Köbke",
     "displayName" : "ChrisVolume1OST",
     "description" : "Official Terasology soundtrack by Chris Köbke, Volume I",
-    "dependencies" : [],
+    "dependencies" : [
+        {
+            "id" : "MusicDirector",
+            "minVersion" : "0.2.0"
+        }
+    ],
     "isServerSideOnly" : false
 }
