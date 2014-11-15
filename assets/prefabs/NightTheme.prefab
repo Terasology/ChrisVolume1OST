@@ -1,0 +1,12 @@
+{
+    "AutoCreate" : { "createClientSide" : true },
+    "DisplayName" : {
+        "name" : "Night Theme"
+    },
+
+    "TimedMusicTrigger" : {
+        "dailyStart" : 0.00,
+        "dailyEnd" : 0.15,
+        "assetUri" : "NightTheme"
+    }
+}
